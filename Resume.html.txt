@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <div>
+        <div>
+            <h1>Anushka Srivastava</h1>
+            <p>Contact:<a href="abcd.com">anushkasrivastava766@gmail.com</a></p>
+            <p>Linkedin:<a href="abcd.com">anushkasrivastava766@gmail.com</a></p>
+            <p>github:<a href="abcd.com">anushkasrivastava766@gmail.com</a></p>
+        </div>
+        <table>
+            <tr>
+                <td>
+                    <img src=""
+                </td>
+                <td>
+                    I am passionate software engineer with experties problem solving and algorthimic thinking. 
+                </td>
+            </tr>
+        </table>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>B.Tech in CSE, PSIT</li>
+                <li>Casterbridge School</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>JAVA</li>
+                <li>Python</li>
+                <li>C</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVAScript</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Achievements</h2>
+            <ul>
+                <li>5* in Problem Solving</li>
+                <li>200+ problems on leetcode</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Expense Tracker</h3>
+                    <p>Expense record using Html,Css,Js,PHP,SQL</p>
+                </li>
+                <li>
+                    <h3>Carrier Couch</h3>
+                    <p>study material website using Html,Css,Js,React,MySQL</p>
+                </li>
+                <li> <h3>Food Recommendation System</h3>
+                    <p>Food recomendation with nutrients using Html,Css,Js,AIML,MySql,Python</p></li>
+            </ul>
+        </section>
+        <footer>
+            2023 Anushka Srivastava, All right reserved.
+        </footer>
+    </div>
+</body>
+</html>
